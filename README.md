@@ -1,45 +1,70 @@
-## Hi there 👋, I'm Vinterdahl
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20there,%20I'm%20[Your%20Name]%20👋&fontSize=50&animation=fadeIn&theme=tokyonight" width="100%" />
 
-### 🚀 About Me
-I'm a passionate developer who loves turning complex problems into elegant, efficient code. Whether I'm building scalable web apps, diving into data, or tinkering with new frameworks, I'm always eager to learn and create.
+  <br/>
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7928CA&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+  </a>
 
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) *[Add More]* |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) *[Add More]* |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) *[Add More]* |
-| **Tools & OS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) *[Add More]* |
-
----
-
-### 🌱 What I'm Up To
-
-*   🔭 **Current Project:** Working on `[Project Name]`, a `[briefly describe what it does]`.
-*   🌱 **Learning:** Currently diving deep into `[Technology, e.g., TypeScript, AWS, Next.js]`.
-*   👯 **Collaboration:** Looking to contribute to Open Source projects related to `[Your Interest]`.
-*   💬 **Ask me about:** `[Your specialty, e.g., CSS Grid, API integration, or gaming]`.
+  <p align="center">
+    <a href="https://linkedin.com/in/[YOUR-USERNAME]">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/[YOUR-USERNAME]">
+      <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:[YOUR-EMAIL]">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 💫 About Me
 
-Standard stats layout to showcase your activity:
-
-&nbsp;[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinterdahl&show_icons=true&theme=radial&hide_border=true)](https://github.com/vinterdahl) 
-&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinterdahl&layout=compact&theme=radial&hide_border=true)](https://github.com/vinterdahl)
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
+      <p>🚀 I am a passionate software engineer focused on building clean, responsive, and user-centric applications. I love diving into complex algorithms just as much as designing smooth user interfaces.</p>
+      <p>💡 I thrive on solving real-world problems through code, automated workflows, and robust system architecture.</p>
+      <p>🎮 When I'm not staring at a terminal, you can find me gaming, reading sci-fi novels, or trying to perfect my espresso shots.</p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycXpxdXI4dTRhZnk5NTR0MHFjcWJkb3Z6dmlyYmU4YzhnaDNxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTn01fiQ875rfOQCZs/giphy.gif" width="100%" style="border-radius: 8px;" alt="Demon Slayer GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Connect with me
+## 🛠️ My Tech Stack
 
-Let's chat! You can find me around the web:
+### 💻 Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" alt="Languages" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR-USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-WEBSITE.com)
+### 🌐 Frameworks & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mongodb" alt="Frameworks and DBs" />
+</p>
 
-> ⚡ **Fun Fact:** `[Insert a quirky fun fact here! e.g., I drink way too much iced coffee, or I can solve a Rubik's cube in under 2 minutes.]`
+### 🔧 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode" alt="Tools" />
+</p>
+
+---
+
+## 📈 What I'm Up To Right Now
+
+```text
+📂 [Current-Project-Name] ──> Building a scalable microservices web app using [Tech-Stack]
+├── ⚡ Optimizing database queries for lightning-fast speeds
+└── 🎨 Polishing the UI/UX with smooth Tailwind animations
+
+🌱 Currently mastering: Advanced System Design, GraphQL, and AWS DevOps
+🤝 Looking to collaborate on: Open Source automation tools or Web3 projects
