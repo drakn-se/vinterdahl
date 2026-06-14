@@ -33,7 +33,7 @@
       <p>🎮 When I'm not staring at a terminal, you can find me gaming, reading sci-fi novels, or trying to perfect my espresso shots.</p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIycXpxdXI4dTRhZnk5NTR0MHFjcWJkb3Z6dmlyYmU4YzhnaDNxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTn01fiQ875rfOQCZs/giphy.gif" width="100%" style="border-radius: 8px;" alt="Demon Slayer GIF"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212749449-333e606a-a285-45a8-9d62-b91c3d0b284e.gif" width="100%" style="border-radius: 8px;" alt="Zenitsu Typing"/>
     </td>
   </tr>
 </table>
