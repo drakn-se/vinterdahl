@@ -44,7 +44,7 @@ interests:  Networks · Servers · Space · Drones
 
 <br/>
 
-- &nbsp; Currently building **drakn**
+- &nbsp; Currently building **drakn Dashboard**
 - &nbsp; Working towards the **drakn launcher** & The **drakn platform**
 - &nbsp; Passionate about **Network technologies** and **Server infrastructure**
 - &nbsp; Fascinated by **Space** and everything **Drone**-related
